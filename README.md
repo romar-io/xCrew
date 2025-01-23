@@ -1,5 +1,9 @@
 # xCrew 🤖
 
+<div align="center">
+  <img src="assets/xcrew-mindmap.png" alt="xCrew Architecture" width="800"/>
+</div>
+
 xCrew is a powerful framework for orchestrating autonomous AI agents, built on top of the CrewAI framework. It enables seamless collaboration between AI agents to accomplish complex tasks through structured workflows and intelligent task delegation.
 
 ## 🌟 Features
